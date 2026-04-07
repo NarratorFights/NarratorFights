@@ -1,5 +1,10 @@
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/1203a7c1-0c39-4396-b56a-498278a390d9" />
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x53ibvslhouq2gesj23744ps2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=692121">
+  </a>
+</p>
 
 ![blinkiesCafe-lI](https://github.com/user-attachments/assets/067a5a51-0b83-464e-a584-ebdc6edebd4f) ![blinkiesCafe-qg](https://github.com/user-attachments/assets/b7b53d9d-2fca-43cd-bb81-827111048ef2) ![u87xz1](https://github.com/user-attachments/assets/121ba604-9e71-4006-b994-77c82b8d95b1)
 
