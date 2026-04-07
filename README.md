@@ -6,6 +6,8 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=GlamRockers-CO&label=Fights&color=a92e2e)
+
 ![blinkiesCafe-lI](https://github.com/user-attachments/assets/067a5a51-0b83-464e-a584-ebdc6edebd4f) ![blinkiesCafe-qg](https://github.com/user-attachments/assets/b7b53d9d-2fca-43cd-bb81-827111048ef2) ![u87xz1](https://github.com/user-attachments/assets/121ba604-9e71-4006-b994-77c82b8d95b1)
 
 ![Tumblr_l_213080772761372](https://github.com/user-attachments/assets/c2dab5a8-a624-4857-bc90-0f9fc0467f5e) ![Tumblr_l_213085600847307](https://github.com/user-attachments/assets/e2311295-45a6-477a-a8ef-d83d205b3aa1) ![Tumblr_l_213082435295538](https://github.com/user-attachments/assets/4c937780-71b4-4581-80fa-903be9235a51) ![Tumblr_l_213109368473392](https://github.com/user-attachments/assets/0a9be5a0-23ec-48d0-830f-98a80c841eab) 
