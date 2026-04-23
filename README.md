@@ -51,13 +51,3 @@ Credits!
 
 <p align="center">
 Credit to anyone for the blinkies/borders!
-
-<p align="center">
-VVVVVVVVVVVV MADE BY ME VVVVVVVVVVVV
-
-<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/a52e6184-7393-4a15-b242-bc7e5978628f" /> <img width="192" height="25" alt="image" src="https://github.com/user-attachments/assets/6eefdd54-edb3-4871-8d27-2c27e1517474" />  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/8747b1e3-0417-4900-8b4a-31a4973a50eb" />
-
-
-
-<p align="center">
-NAME!! - Herbert / Medic - TAKEN
